@@ -4,7 +4,7 @@ Esse é o quarto desafio disponível no curso, no Stage 02 - Conhecendo novos co
 
 Neste desafio, devemos replicar o layout abaixo baseado nos conhecimentos já adquiridos até aqui:
 
-![Untitled2](https://user-images.githubusercontent.com/106932234/175142288-0119aefe-f06b-4b80-81a3-2d371210a0a9.png)
+![Untitled4](https://user-images.githubusercontent.com/106932234/175334149-670facf4-0aaf-499d-82da-9f22001fabe7.png)
 
 O objetivo final foi atingido com facilidade, sem nenhum obstáculo.
 
